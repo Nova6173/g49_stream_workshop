@@ -299,5 +299,4 @@ public class StreamExercise {
             System.out.println (date);
         }
     }
-
 }
